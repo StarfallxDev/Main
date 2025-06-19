@@ -15,8 +15,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  🔭 Currently working on <b>StarfallX</b> and <b>DesktopDiscSpy</b><br>
-  💻 Specializing in Roblox scripting with server-side animations<br>
+  🔭 Currently working on <b>StarfallX (Frontend)</b> and <b>Starlight (Backend)</b><br>
   🌟 Building the future through code at <a href="https://starfallx.space">StarfallX</a><br>
   📫 How to reach me: <b>AstralixXContact@proton.me</b>
 </p>
@@ -60,17 +59,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
-</p>
-
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=starfallxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfallxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starfallxdev&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="Streak Stats" />
 </p>
 
 <h2 align="center">Connect With Me</h2>
